@@ -1,3 +1,32 @@
 Audio Recognition
 
-1) after making it a privte repo
+Important Links
+
+https://www.google.co.in/search?client=ubuntu&hs=aPI&channel=fs&dcr=0&ei=y8tlWv6WO8fWvgSDqIvQCQ&q=robot+audio+recognition+using+raspberry+pi&oq=+robot+audio+recognition+using+ra&gs_l=psy-ab.3.0.33i22i29i30k1.21792.26394.0.27433.10.9.0.0.0.0.259.883.0j1j3.4.0....0...1c.1.64.psy-ab..6.3.697....0.Y5sbsh_BYfY
+
+https://diyhacking.com/best-voice-recognition-software-for-raspberry-pi/
+
+https://www.google.co.in/search?client=ubuntu&channel=fs&q=audio+recognition+rasberry+pi&ie=utf-8&oe=utf-8&gfe_rd=cr&dcr=0&ei=G8RlWrGCLa2dX-7Wg4gD
+
+http://www.techradar.com/how-to/how-to-control-the-raspberry-pi-with-your-voice
+
+https://www.rhydolabz.com/wiki/?p=16234
+
+https://www.youtube.com/watch?time_continue=170&v=hGgw_AvEWw0
+https://www.slideshare.net/search/slideshow?searchfrom=header&q=audio+recognition
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.871.340&rep=rep1&type=pdf
+
+https://www.google.co.in/search?client=ubuntu&channel=fs&q=Speech+Recognition+and+Semantic+Analysis+HMM+%28Hidden+Markov+Model%29.+Hidden+Markov+models+are+statistical+models+and+mo+st+modern+speech+recognition+sy&ie=utf-8&oe=utf-8&gfe_rd=cr&dcr=0&ei=Px5mWqrFEceL8QeF_JboDw
+
+https://github.com/Kitt-AI/snowboy
+
+https://www.google.co.in/search?client=ubuntu&channel=fs&q=leenabot+voice+recognition+robot&ie=utf-8&oe=utf-8&gfe_rd=cr&dcr=0&ei=JhNmWoHvNsSL8QeA1ILoAQ
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=182185
+
+https://www.youtube.com/watch?v=jiZiNbABGfw
+
+https://www.raspberrypi.org/blog/robot-destroy/
+
+https://www.dexterindustries.com/projects/alexabot-amazon-alexa-controlled-robot/
