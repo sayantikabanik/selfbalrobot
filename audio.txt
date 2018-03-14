@@ -30,3 +30,15 @@ https://www.youtube.com/watch?v=jiZiNbABGfw
 https://www.raspberrypi.org/blog/robot-destroy/
 
 https://www.dexterindustries.com/projects/alexabot-amazon-alexa-controlled-robot/
+
+https://www.toptal.com/robotics/programming-a-robot-an-introductory-tutorial
+
+https://github.com/nmccrea/sobot-rimulator/tree/v1.0.0
+
+https://www.electronicshub.org/controlling-a-dc-motor-with-raspberry-pi/
+
+https://business.tutsplus.com/tutorials/controlling-dc-motors-using-python-with-a-raspberry-pi--cms-20051
+
+http://docs.kitt.ai/snowboy/
+
+https://www.youtube.com/watch?v=WhMULwtYfhw
